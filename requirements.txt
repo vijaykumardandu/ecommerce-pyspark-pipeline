@@ -1,0 +1,10 @@
+pyspark==3.5.0
+delta-spark==3.0.0
+faker==20.1.0
+pandas==2.1.4
+great-expectations==0.18.8
+apache-airflow==2.8.0
+pytest==7.4.4
+pytest-cov==4.1.0
+python-dotenv==1.0.0
+pyarrow==14.0.2
